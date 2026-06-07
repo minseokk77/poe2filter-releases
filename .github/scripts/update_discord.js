@@ -1,4 +1,4 @@
-import axios from 'axios';
+const axios = require('axios');
 
 const BOT_TOKEN = process.env.DISCORD_BOT_TOKEN;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
