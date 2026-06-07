@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.0",
-  "notes": "v1.3.0 Convenience Ultimate Update: 클라우드 동기화 2.0, 필터 프리뷰 기능 추가",
-  "pub_date": "2026-06-07T08:04:00Z",
+  "version": "v1.3.1",
+  "notes": "v1.3.1 Updater Fix Release: 업데이트 캐시 및 다운로드 문제 해결 버전",
+  "pub_date": "2026-06-07T10:13:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2tWYUF4MDBYSmdxVElZS1crSy8vTC9qcHpqeVIycllWVnVQakFJampYNUc3cDNsRFArSnpOR1FseHNQM0hxU0orRS8wTWVKdElJQVFJMVFuVUZHK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI2NzMyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy4wX3g2NC1zZXR1cC5leGUKZ2hVUW9keG9kam5EOER2L2xJdlJ6MkpidDMxbmhmQzl1ZGxZU1UwcEtud21JS1lERjZmMFhKYWQvbGJONkpWMkVNeDd0cmRsNkxmVEJkbkpiYS9VRGc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.0/POE2_AutoFilter_1.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2dsWDBFcFVPeW1kQ3ZoaWdZVVVDaEQ2ZG54bWQrUTgvTG1ja3dIT2lsTE5mUG1QN3ZjNWVoSHRPelRBaHZKbFI0a3BCRnpKZStNc3hLdVRwWWFwcUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI3MTU1CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy4xX3g2NC1zZXR1cC5leGUKVVo2UlZOYXFhTStrb1V4d1ZBM2lhOVdXdVU5cjkrY0lkQjduZmhaa1dIZ2k0VXFFZkRCaDVnemMrY21xd2E5cXlTWjRWUlAzSmE5RmZudWZCK1FWQnc9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.1/POE2_AutoFilter_1.3.1_x64-setup.exe"
     }
   }
 }
