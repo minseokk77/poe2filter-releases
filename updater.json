@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.0",
-  "notes": "v1.2.0: D1 서버 연동 마이그레이션, 자동 레이트 리밋 방어 구축, 모달 UI/UX 전면 개편",
-  "pub_date": "2026-06-07T05:08:00Z",
+  "version": "v1.3.0",
+  "notes": "v1.3.0 Convenience Ultimate Update: 클라우드 동기화 2.0, 필터 프리뷰 기능 추가",
+  "pub_date": "2026-06-07T07:38:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "SIGNATURE_PLACEHOLDER",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.2.0/POE2_AutoFilter_1.2.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3FCQmRaNWtSZEg3L2pSOTBDNGozZGZtcGsyZUxucjdQejBiNS9KazFqN2MrQjdIMDFEaTdvTjM0dW5MZ3lYanlLckltUjl5Rjc1SjFHRHprd0Q5a0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODE3ODU0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy4wX3g2NC1zZXR1cC5uc2lzLnppcApTVThoeWhsbjVRcWpGaDh4aDRYWjhneHgwc3RyL0NPaFg5K0YwRjZuV2R0THlmcWQxS2xZaGNFWFcwY25zYzRJUmZZaVRRYUdWYXJlY0pVNnM3Z3ZEUT09Cg==",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.0/POE2_AutoFilter_1.3.0_x64-setup.nsis.zip"
     }
   }
 }
