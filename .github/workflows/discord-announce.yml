@@ -1,0 +1,42 @@
+name: Discord Release Announce
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release Version (e.g. v1.2.0)'
+        required: true
+        default: 'v1.2.0'
+      body:
+        description: 'Release Notes (e.g. D1 마이그레이션 등)'
+        required: true
+      url:
+        description: 'Release GitHub URL'
+        required: false
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install axios
+
+      - name: Run Discord Announce Script
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID || vars.DISCORD_GUILD_ID || '1512824113985753178' }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID || vars.DISCORD_CHANNEL_ID }}
+          RELEASE_VERSION: ${{ github.event.release.tag_name || github.event.inputs.version }}
+          RELEASE_BODY: ${{ github.event.release.body || github.event.inputs.body }}
+          RELEASE_URL: ${{ github.event.release.html_url || github.event.inputs.url }}
+        run: node .github/scripts/update_discord.js
