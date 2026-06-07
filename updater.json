@@ -1,0 +1,11 @@
+{
+  "version": "v1.2.0",
+  "notes": "v1.2.0: D1 서버 연동 마이그레이션, 자동 레이트 리밋 방어 구축, 모달 UI/UX 전면 개편",
+  "pub_date": "2026-06-07T05:08:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "SIGNATURE_PLACEHOLDER",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.2.0/POE2_AutoFilter_1.2.0_x64-setup.nsis.zip"
+    }
+  }
+}
