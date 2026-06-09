@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.2",
-  "notes": "v1.4.2: 앱 자동 업데이트(Auto-Updater) 및 안정성 핫픽스 적용",
-  "pub_date": "2026-06-09T16:28:39.508Z",
+  "version": "v1.4.3",
+  "notes": "v1.4.3: 업데이트 시스템 개선 및 핫픽스 적용",
+  "pub_date": "2026-06-09T16:40:56.902Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "untrusted comment: signature from minisign secret key\r\nRUTI2lmvhTBY/ub7lOmEh73AWseEGZprihrWGFfd9Q7NlmnuaRIFHUl2dHzdSaq/XRLVCow3tCzF3NquD0BzTs6L4MIR2DdPNAw=\r\ntrusted comment: timestamp:1781022036\tfile:POE2_AutoFilter_1.4.2_x64-setup.nsis.zip\thashed\r\n6yO8pjbjYeXyOW+l3g5L/eqicD9gBIKItBLgwq7lkINMuCwSSrf1lPba/hFC6uP8V3qrfpSqoE5/akcFXBhpBQ==",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.2/POE2_AutoFilter_1.4.2_x64-setup.nsis.zip"
+      "signature": "untrusted comment: signature from minisign secret key\r\nRUTI2lmvhTBY/viAIV2AZadO618TcsTYYWII3Cxbnlay+1hLexD0wE/+/67fljdhCKA9BLRxud+9E9C3i/Zk2p51Be0sefiJBgQ=\r\ntrusted comment: timestamp:1781023173\tfile:POE2_AutoFilter_1.4.3_x64-setup.exe\thashed\r\niob3apd/42N1U3wI0MsmVwdEOrf026hwyxP08VmqjNrrDbotLjPgfF4NhaghQ6umkLhNAeclAjMSoV+mcIVLBg==",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.3/POE2_AutoFilter_1.4.3_x64-setup.exe"
     }
   }
 }
