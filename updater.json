@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.1",
-  "notes": "v1.4.1: 관리자 전용 갤러리 프리패스 및 캐시 즉시동기화 적용",
-  "pub_date": "2026-06-07T16:01:34.644Z",
+  "version": "v1.4.2",
+  "notes": "v1.4.2: 앱 자동 업데이트(Auto-Updater) 및 안정성 핫픽스 적용",
+  "pub_date": "2026-06-09T16:10:23.301Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lhemkva3JRdUJlc1BvOUxIQUtoVm5tNGpuR0hoWit2aGRYWGoyRmhwVWRRdVg0R1Q5ZFVSbFc4MWthbFVZdkZXU1BRSWlJUjFHMDlTc1hjSWRGWnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQ3OTUxCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC4xX3g2NC1zZXR1cC5leGUKdTJPWXBXSklGcndBNWxuQXlBRUZmQ1lwRnJnRy9mU2htVWFCWmV5RzhGbkc0dlMvS04wU0xEQ1BPLzdxc2lBZkVZQTJZUnBnNUp6cVJDcTlYMGRCQUE9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.1/POE2_AutoFilter_1.4.1_x64-setup.exe"
+      "signature": "untrusted comment: signature from minisign secret key\r\nRUTI2lmvhTBY/orKx1GGsJsHaC9Kq//ruPYL6MtKD/hCtKymJOwRqXjNn8nfk1CpdC7bByv4EFdLlWNpaJdwDxbqsB8hoCuvngc=\r\ntrusted comment: timestamp:1781021200\tfile:POE2_AutoFilter_1.4.2_x64-setup.exe\thashed\r\n+sBD7QUMqc+cMWl71/9QPe+TlTZpPTPQ6LKHojzU8ymEB9TwLq3ceK09Y2s1hp+sBHbR1VKKyWeJ0mt4hvaqBw==",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.2/POE2_AutoFilter_1.4.2_x64-setup.exe"
     }
   }
 }
