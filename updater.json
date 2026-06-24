@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.7",
-  "notes": "v1.4.7: 커스텀 업데이터 도입 및 exe 직접 업데이트 지원",
-  "pub_date": "2026-06-24T14:55:25.723Z",
+  "version": "v1.4.8",
+  "notes": "v1.4.8: 게임 크래시를 유발하는 선호 옵션 강조 버튼(HasExplicitMod) 기능 임시 비활성화 핫픽스",
+  "pub_date": "2026-06-24T15:35:19.204Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JnZ0xObmlXRStGRGd2S3JGTlVHa2FmM2d5eGR0VnFXZzdsTC9ZNC9GamxtL3NKOHBKNDJkWUhzdE9rb3IrVytFbzk0ZjJpYWVseXllRitoYTdTckFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEzNzg4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC43X3g2NC1zZXR1cC5leGUKczFXK2JCQ2ZjZWZVdXhWZ1IzQm95YTJFMzQzcHlLc2xhZFNvSDYwUzRDaVFEUEhtS1VBMVRqcWdjZVpoWC9BNC9MRFA3eWJHQ3VXREkrMy81ZHhXREE9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.7/POE2_AutoFilter_1.4.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JtRjdUV3ozSWFYZVcrZEt0dDNYejhZTkVXNW50U1plNFZ5anIzQlQ0R2d3UlU3V3U5dlN6Qnl6R3lyUkJmQnRPNkIzUXdoREtFbmRtMTRYV1NLRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE1MzExCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC44X3g2NC1zZXR1cC5leGUKUDZUYjZtVW1ON1FGUjVFTFVoYUc5WU53WTJsVlVHNFlmL3FuZXVHK1h0L0NaRTdIZlNzaUJ2K0UzTlhwMTlzOWY4NGJjeDlSYVFKS05DRHBEZlpqQmc9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.8/POE2_AutoFilter_1.4.8_x64-setup.exe"
     }
   }
 }
