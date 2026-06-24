@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.6",
-  "notes": "v1.4.6: UI 해상도 자동 스케일링 및 전체화면 레이아웃 개선",
-  "pub_date": "2026-06-24T14:19:00.000Z",
+  "version": "v1.4.7",
+  "notes": "v1.4.7: 커스텀 업데이터 도입 및 exe 직접 업데이트 지원",
+  "pub_date": "2026-06-24T14:55:25.723Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3VTUENHT0J4bXRzZk1waWZnQ0FMZmRPbktQQUV0RTFIalJqY0tER3FzQTBsSC80ZzJmdHlRK0tNQzdEdjJ2eUlvZk5Za1RwTVJVOCtib1hUT2FhMHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzExNzE4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC42X3g2NC1zZXR1cC5leGUKQ1JCQ1h2ZXlmTDRxUExBSkZaQktNV0tjRER6NGpza0E5WWRkdWZvRUUrekhwYmpSdnFxZGVmR1VwVTJCWlJVYUZJZnN5MFA5eGtuYnFVckhldzIxQ2c9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.6/POE2_AutoFilter_1.4.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25jbmFMTy9ZOWpjcWdUeEZYNEQ2V2pqdzhqUU5pM00zSVg2dnBUSWQ4eHBYeU9UNHlkbW8zdlVaMkxMZTZoTWlxWnFMdzlzaGIvSjFYNGJ5SWMxSEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEyOTAyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC43X3g2NC1zZXR1cC5leGUKSTM5VFZRNFFqM2tNZWtiOHMxeTRQQlI2QnJuQUQ1S1c3OWZlMS9lRWxReDB0bU0vSVBuZFVreTQwTy9CN1A4WWxWMDB0VTNUVFZseVZEK2R1UVd6RHc9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.7/POE2_AutoFilter_1.4.7_x64-setup.exe"
     }
   }
 }
