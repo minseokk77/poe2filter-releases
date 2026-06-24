@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.6",
-  "notes": "v1.5.6: 갤러리 관리자 권한 즉시 반영 패치 및 로그인 검증 우회 패치 적용",
-  "pub_date": "2026-06-24T18:19:32.135Z",
+  "version": "v1.5.7",
+  "notes": "v1.5.7: 디스코드 인증키 입력 시 공백/줄바꿈 문자열 자동 제거 처리 강화",
+  "pub_date": "2026-06-24T18:26:39.982Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25PTTNWQ2JFc1hnbkF1Y2pzNkdObUg4cTlPem13TEhUQ01NRHh5S1pzdmRnZzEyYXJuenFvajZoTzEvS1JJTE1IYk1NQjZuVzVSdzd4SWtpcGVUa3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI1MTYxCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS42X3g2NC1zZXR1cC5leGUKb1lHVjhhbkhjVmRnV3krRW1DTnRBTWYzR2FvT0NKb3VZbFE0TkZKaDVnck5zOWRXVDZDTkI0MG94cmk2alZhakxQalBxUkFRY2NnZ3dBTGMwYU9HQ1E9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.6/POE2_AutoFilter_1.5.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lXb0ZLQWlmQnlxbDhwdDQ1cUtJT3llLzZWMnBRa3hKSmtzYnI3aFIxQ3crcVNRVllCbms4b09ueGw4VlBJaTZpaUJuY3FiMVdRdnBuaXl3bVZEUFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI1NTk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS43X3g2NC1zZXR1cC5leGUKYnNZeXljem8zSzhpRW1oMzBpazVQVkhQUFQrZ2h5UlY3ckRVZDJWblE1bHJxSEFDd2JtTXp4T1phQ2x0SGJXTzZkWjZFTnVsZ0JpNXZuWjIySXJOQXc9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.7/POE2_AutoFilter_1.5.7_x64-setup.exe"
     }
   }
 }
