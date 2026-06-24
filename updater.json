@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.2",
-  "notes": "v1.5.2: 자동 업데이트 시스템 테스트 릴리즈",
-  "pub_date": "2026-06-24T16:50:19.499Z",
+  "version": "v1.5.3",
+  "notes": "v1.5.3: 갤러리 관리자 권한 즉시 반영 패치 적용",
+  "pub_date": "2026-06-24T17:28:28.236Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3FKblUzUDcvTzFscmpLaWxFYU12M0h1L3R5em16ZTFiMnI0OXJuZjYwRVNDZGVCa1hxN3RzNGJhVTVGYmlEMWxibTlMWDN6THBFMFNBV1ozb1NlK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE5ODA4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4yX3g2NC1zZXR1cC5leGUKTW9SRlZyMVhCSk1oWUk2cmpSNW9JUDFrWFBrUWovVm4yQXlwd3ZXU1RBQ05TOEFzOEs2NlNTSlNZb2Z2NENCVWFoYWZpVlNBVUNmVHNzZ3pqRXlNRHc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.2/POE2_AutoFilter_1.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3UrY0JtTytOeEt3VWd4N2NaME40MGRsK2RSUHJKcVJMZlJBVHlzVHdoNVlDMitTTFVFT1VCNUtXcDZjK09leVV4TjlkZVgrU0UyU2g3YVI3ZlhxVWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzIyMTAyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4zX3g2NC1zZXR1cC5leGUKL01Mb0ZRSDliQVFkSWkxMmtqY2JuNWw1YXZDR1ZGQVpSdjVXV0IxRjR1SGszQzFVS01RZ1d0T3ZaOWhUTWhJMUtvUHl2R203STNoQjBHRWlySnFYREE9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.3/POE2_AutoFilter_1.5.3_x64-setup.exe"
     }
   }
 }
