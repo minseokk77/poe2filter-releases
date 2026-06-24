@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.0",
-  "notes": "v1.5.0: 정식 1.5.0 릴리즈",
-  "pub_date": "2026-06-24T16:21:31.604Z",
+  "version": "v1.5.1",
+  "notes": "v1.5.1: 자동 업데이트 파일 잠금 에러(os error 32) 긴급 핫픽스",
+  "pub_date": "2026-06-24T16:35:03.565Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JkQkhKekVzSmRqK2JXUHIyWEhtbUNsVG41ZDhlQXV3czZTanlLZkhJZitkbWZCTDVBTlE3SVZBbk1HUE0xVk42Z254dCswelZwZXdGMHVjVUxYb0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE4MDg0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4wX3g2NC1zZXR1cC5leGUKSlhwSkVHN0VoMWx6V1JBZXFMSmg2Z2tNSDFydk80WDMrbVUxeHdVeXpFeFRKYnIwM3J4bjNwWEhxa2ZWeXRxemlFMko5TGYwelFRdHRmRExDNnlMQmc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.0/POE2_AutoFilter_1.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JNK3dPQXo3M2M1R0tiTUMvY21oRlJCNzFackZNV0I5RkhlOGhmOERwU2hrdU5tc1RnNHkyNW9mVVA1WmNzZXZ2ck42OW5aOTdFcVN1K1hhekJ0MlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE4ODk2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xX3g2NC1zZXR1cC5leGUKdmdzNzhhbWtKV0pJVXcxMUxETm9iZHRyZlZkTVRwRHcwMTFMb3NBU0FGdlRXd3VGUlpVT1k3Q3lreDhTeGRPeWw2S21zaVBtc3NMZGYyTURNSm45Q0E9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.1/POE2_AutoFilter_1.5.1_x64-setup.exe"
     }
   }
 }
