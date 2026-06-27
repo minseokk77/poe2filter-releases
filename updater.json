@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.11",
-  "notes": "v1.5.11: 무기 및 방어구 베이스 아이템 등급 제한(Expert 등) 설정 시, 선택되지 않은 하위 등급 장비들이 정상적으로 숨겨지도록(Hide) 필터 규칙 픽스",
-  "pub_date": "2026-06-27T15:07:42.508Z",
+  "version": "v1.5.12",
+  "notes": "v1.5.12: 정식 버전에서 삭제된 무기/방어구 명칭(Expert/Advanced)으로 인한 등급 제한 작동 오류를 아이템 고유 드롭 레벨(DropLevel) 기준으로 전면 수정하여 완벽 대응",
+  "pub_date": "2026-06-27T15:20:29.393Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3R3VmVGaUQ0cU1iRG5ReVJtT0NLdVB3QTNlT2tUbjNJcGtHTDQ5UlhzTTdBaDJ6WVF4VjAvaFhtb3kvb2ptYUZON0QrMGdVQSs4aTlxUVlvTG9JVEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcyODU3CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xMV94NjQtc2V0dXAuZXhlCk9mZmZua09rTlppa3pkNDVia0J5WGlaSlJpK0hEVnEwZ2ZrYW1RMCtyaG50ejljSXVobXBmdVJaWWY4TWllL1JlaWt1Wmx3VEJEVGNFYVdQWGdtVEJBPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.11/POE2_AutoFilter_1.5.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2hZY25GRFpNOFNhYy9OYmtjVnJJSHpHNVZteGt3ejE0VFdTK2UzM3prVldFa0xFSnJZUVBuR1FsZkR4bGZYK2ZuKzJpZTRyWkdqV3NLazJ2Kys2dmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTczNjIwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xMl94NjQtc2V0dXAuZXhlCnJjTXZBMlF3bWNxeitERU1wS2FRZ2dtODQvdFdQVTc1T0JxWXBFVGVrOW1qZSt5VC80NHYvbFlNU3dNZ0o3WGpJRTNtL2FYbzliOTVLWVg3SGVtUkRRPT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.12/POE2_AutoFilter_1.5.12_x64-setup.exe"
     }
   }
 }
