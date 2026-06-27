@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.15",
-  "notes": "v1.5.15: CURRENCY 탭 커런시 명칭 한글화 및 레이아웃 수정, 텍스트 입력창 배경색 버그 픽스",
-  "pub_date": "2026-06-27T16:39:35.561Z",
+  "version": "v1.5.16",
+  "notes": "v1.5.16: '숨길 장비 / 보일 장비' 기능에서 프리셋 사용 시 간헐적으로 필터 적용에 실패하는 크래시 버그 긴급 수정",
+  "pub_date": "2026-06-27T16:50:33.567Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3BYTndQL3I2RHZFMkdTZHVQWTBERElrM25SWk1aQ0J2RTA4RXp4blBVNXNsVm1Oa2Y2UWdaOWE2REV1R0NlLzVLWiswc2swa0s5S1NabEwxVFM0WWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc4MzY4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xNV94NjQtc2V0dXAuZXhlCkluUTdHRDU1NEVETktPa2hYUFAzdDI0dlMzUG5ubVFmSGZiZERLUTRCZmIyNitMSEtOeGw1SFZjcWVXdk1DYVhwUlpwOFpTcEd1M0xRbW5WeUQ1MkRBPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.15/POE2_AutoFilter_1.5.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3NMR1dYV1lPVS9ldkx3c2J0SjVHT1diK09tQnJHV3lFMyt4R2hER0dRRkg2b1E0UDV2aTdCUDQ3NUs1VzlWRzBZVjc4bXRwQ3Z5UlZacElIbC9VTmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc5MDI2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xNl94NjQtc2V0dXAuZXhlCkJEOUp3ZFFXSlRYYVlWNzJsSVN4L1ltOWRQSDMzUGt2b0Y5MDllaHcrZnhTc0hXRDdHS05MWWZHWjN0cG9xRFgzVUJYdjA5RSt3YUdiOGhhT3pBQ0F3PT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.16/POE2_AutoFilter_1.5.16_x64-setup.exe"
     }
   }
 }
