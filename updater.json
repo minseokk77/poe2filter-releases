@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.9",
-  "notes": "v1.5.9: 생명력/이속 등 옵션 필터링 POE2 문법 호환 대응 및 무기 베이스 등급 제한 누락 픽스",
-  "pub_date": "2026-06-27T14:47:10.616Z",
+  "version": "v1.5.10",
+  "notes": "v1.5.10: POE2 클라이언트의 엄격한 구문 검사(Crash)를 방지하기 위해 범용 옵션(생명력/이속 등) 강조 기능을 수동(Expert) 모드로 롤백",
+  "pub_date": "2026-06-27T14:56:20.480Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JDaytHM2F1dlYyNkQyUmx0K3phZzN0ZmdSRTBjRllvaXRZWVZJbzNLQmVKL1pPZm0zTkFGWExZaTZlN3VlUkQxZ2lrcEs4QWlmcWh3NnI4WTdTcEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcwOTk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS45X3g2NC1zZXR1cC5leGUKenRzR25ZL2ltNGs4YlpCc3lmbnlmNFZaSVgvWXZ0RS9XVkpJaWN1Vi91ZzVSWW5oVTlkK0xUUlZzU0NDdmNaeUFTQXdnUGJwclF2eHYwUXNqT1p3Q2c9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.9/POE2_AutoFilter_1.5.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3BodjcxZkVtdytmMnYreHlFWkpSeTlCSEtMZFZjTGVENUo4NG54SkUzQ0t3Yy9jMnVCTjBkb25weTY4UUNONURhcGhqTXhKcGE3dms0Tjl1dEF6MFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcyMTcyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xMF94NjQtc2V0dXAuZXhlClhWTzV4bi9JZnowL3hUaTkvRnVLZnExS25WYkd2dkphMUN6U1g1L21sSUNKalUvL0JuMzNJMmlKTHlQN3Z6TlRhNEt0dFZqMEtKUkFDbDhTVTBqMkFnPT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.10/POE2_AutoFilter_1.5.10_x64-setup.exe"
     }
   }
 }
