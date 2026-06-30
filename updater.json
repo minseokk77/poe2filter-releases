@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.19",
-  "notes": "v1.5.19: 앱 내 모든 팝업 모달 창이 부모 패널에 가려지지 않도록 최상위 계층 렌더링(포탈) 시스템 전면 적용",
-  "pub_date": "2026-06-27T17:13:14.989Z",
+  "version": "v1.5.20",
+  "notes": "v1.5.20: 클라우드 동기화 및 디스코드 연동 서버 커스텀 도메인(minseok.online) 마이그레이션 적용",
+  "pub_date": "2026-06-30T03:30:23.538Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3BRa21SNmx2bmt1N0hKcEY4K051S1dSL0V6N01zc092VllESFBCZlRZTGxaVXFGbC9yZXlMTVF3T2VCaFBQMzlxVE85Yzk5UzdDZUdpUER2TFB3OXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTgwMzk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xOV94NjQtc2V0dXAuZXhlCkpSRkdhenNpdUtodnNuRTdFb0w2Vys4UG4zRGwvVnR5dFRNT0NBRWdhc01WSmx4YWFrTStCT21VL1M1WGtRTjlsUVFtbE9aSG13bmNDL2piMVlBQURnPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.19/POE2_AutoFilter_1.5.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25INHRwU1g0YS9EdnFNRmRkYmZadWxpcWFkdjBHV3lxL3diQTBuVFZiMUY0UjJKYWoxMDZhL09BNDIyaTE3T252MC9jZXdMWHo4T1ZTeituNjIwYmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzkwMjIzCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4yMF94NjQtc2V0dXAuZXhlCmJDODQ2R1BVbnBZVFVBSkVuSmpBaEN3dEFEbDdld2hQdTRZeXVzWlpHbnFsVHAzczdEUlF1MTI0cVhLaTJobk84b1R1Vm1oSll2U0tQSXZjYkhBVkF3PT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.20/POE2_AutoFilter_1.5.20_x64-setup.exe"
     }
   }
 }
