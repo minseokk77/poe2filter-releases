@@ -1,10 +1,10 @@
 {
   "version": "v1.6.0",
   "notes": "v1.6.0: 깃허브 저장소 이전 및 업데이트 서버 주소 핫픽스 적용 완료 (minseokk77)",
-  "pub_date": "2026-06-30T05:39:00.000Z",
+  "pub_date": "2026-06-30T05:39:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL29tWVJ0K3pYTS94SENsUjFtSFdNMzVuMUdkL1BtcE5ZQW43SVh1ZzdxYXYrZW9kc2NLL3p0TmsxUTFrbnJ5WlFQSUxucW4zTm5VZGdqdnN5RUV0MFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzk3OTQ4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNi4wX3g2NC1zZXR1cC5leGUKa3VENzZ5NklUK0JLaUxaLzhYVG0wckcwOGMyVTVnSXZIMWJWQmxGQTZuTkF5dTQ0czYxNzQ1eDJjR25mbWlGNFg2WnRxZ3QwVmJKQThSUmhxNk9WREE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3ZLUDZjSzRXNW1LK0FlSEJ5UGg5UWRPTm9DVklzZ1BIa2pqRWt6NElqR2JXakZReTkxS284WmlySUFUSmZMaEFsK2I0dkM5L1M1VXNkTEVuRmducFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzk4MjA0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNi4wX3g2NC1zZXR1cC5leGUKTy8zMGNldG4yL2k2NThtSFpEa3ZtUnRoVXNBTHl4ZnlaWUQvUDJDSEx1ODg3Sm15TkN5MGdlTHNLK0xpTzRzYnhFOU1mN3ZnYlFocGJLSExxTHlDQnc9PQo=",
       "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.6.0/POE2_AutoFilter_1.6.0_x64-setup.exe"
     }
   }
