@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.0",
-  "notes": "v1.7.0: 업데이트 시스템 개선 및 핫픽스 적용",
-  "pub_date": "2026-07-07T08:21:10.626Z",
+  "version": "v1.7.1",
+  "notes": "v1.7.1: 기본 브라우저 Discord 인증 복귀와 클라우드 동기화 안정성 개선",
+  "pub_date": "2026-07-15T15:23:21.4817745Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3A0RnA1V1IyZUNRVHp0U2twOTE2Y0c1UHhQbkUyUzFrVm5mMFNrazdPK0Vsc0tOU21rOEhIWnhzaCtycU80M0U2RkhsWWVvZ0hvS3Z6T3RobmkxS1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDEyNDcwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4wX3g2NC1zZXR1cC5leGUKZlIrUkVuazVpN1VLbzdmNzBBMjFCL3R3ejhNaWU0SlNlU3BiUFhaN2pHNE1XclNFR1J0KzIyTk9vVTIvQzRwQ3FyREJ2ZHU5LzlZZE9QWUlMQmlKQ2c9PQo=",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.0/POE2_AutoFilter_1.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2xHZGMyOGZIM2x5NlRNTFk2MEVFSjAvSis2ek5mWjdWWlZQZTNEMVI1VVNYRmR6Sk82OWw2alEwNlhzSHRKYkNoZU1MYldjOTBPd2Y1L2tObmNtQVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTI4OTM4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xX3g2NC1zZXR1cC5leGUKN2ZkQXp3TzFqME54bWpBT1VZZzczYlY1VjNVNXJidWp5TjhpT3BVT2poZ240UUpETk1KUkhkZUREMCs2SjNvVmNqSHFxVXBYY2VXcFpTc1p0QmZXQWc9PQo=",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.1/POE2_AutoFilter_1.7.1_x64-setup.exe"
     }
   }
 }
