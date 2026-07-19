@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.3",
-  "notes": "v1.7.3: 세케마·혼돈의 시련 시험석 개별 표시/숨김 설정 추가",
-  "pub_date": "2026-07-16T10:06:31.8289834Z",
+  "version": "v1.7.4",
+  "notes": "v1.7.4: 업데이트 시스템 개선 및 핫픽스 적용",
+  "pub_date": "2026-07-19T15:19:22.660Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkNClJVVEkybG12aFRCWS9scWdZYmk0QzVsSXRpWUxYdGozTjl3NVErU2VHZSttODdkR0RKTjdnUG0wQ1ZEMlJIZGc2dUhMZCtScmlQUCttb2FLbUppV1lZcGQzMWQwRTdGS0pnbz0NCnRydXN0ZWQgY29tbWVudDogdGltZXN0YW1wOjE3ODQxOTYzODQJZmlsZTpQT0UyX0F1dG9GaWx0ZXJfMS43LjNfeDY0LXNldHVwLmV4ZQloYXNoZWQNCjEyMUxXRGN2ZlJmM3lRb3VxRm9EVEdQdStxbVZWaDZlTzZ0ZjFrMnF0NHJMK2tTS2FXMFNWZm90cjl2ZmNMSExrb1VmOTN4eFRrN2thanZDbW42N0R3PT0NCg==",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.3/POE2_AutoFilter_1.7.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3NZdHJFVW81bGRCRm8xNVlwbS9RYUxZQ0syMjJKRjNXRFZKaGduN1c4WG1hSTE0dTUzZTdEd2EwS0srdmxwVkVrM3RYUlJlaEl5SDNRakZnQmEwZHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDc0MzYyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy40X3g2NC1zZXR1cC5leGUKaUhQeDU2T1FybUVnT0k5bURnNHZqSVZ6aWVHeWsxeVJJditSUDZYTyt3bWkrWGpPV1RRelliQm1CVnRQeXErQVFKRjFQT1JyakNkeEFZbjd2NkZvQkE9PQo=",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.4/POE2_AutoFilter_1.7.4_x64-setup.exe"
     }
   }
 }
