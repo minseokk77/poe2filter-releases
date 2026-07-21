@@ -1,10 +1,10 @@
 {
   "version": "v1.7.5",
   "notes": "v1.7.5: 업데이트 시스템 개선 및 핫픽스 적용",
-  "pub_date": "2026-07-19T15:29:53.672Z",
+  "pub_date": "2026-07-21T11:33:06.619Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2labE9ocDhXRjVRTGtqWFBmSHBpVjdwRStkUjBqcVJhc2p1aDBjMzhxUTg5OE5jM3hPQXM3NEFrWnVFUks3a0VHdlQxRzUwdmhJdGo1REZDaGRqbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDc0OTkzCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy41X3g2NC1zZXR1cC5leGUKRExMdTlFMC9KVElyRE1jdVJ6ZDBHUUtFby9mMG1OSTdURkgrZUxvQTAyaFVIZXhndUxjdzNmRk1sZGlJNXVjUmdVVW14UFh1OTFVSEJTd0QxKy9rRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JvTUxyTXBxVUhxS1ZJYVpOaDdic2RTZlU0aDVBU1JGTzVnU0hSWlFxVmZRL0tsZ1VYcHF2UlJBYWpweVkrOCtjaExRV2xUUHBsZnZIa3JCM0hZR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMzNTg2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy41X3g2NC1zZXR1cC5leGUKTVlDZERBd3RNbUZwVUl3aGNQcEZhNzF6ZGR3UUo2UzJ3N1FlQ1pPWkVWY0NMVGR3aXhXSGdSTWpWdExnUE5TMTNNWkZrSGVPZ1dhM2dxNzFsbW1RQWc9PQo=",
       "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.5/POE2_AutoFilter_1.7.5_x64-setup.exe"
     }
   }
