@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.6",
-  "notes": "v1.7.6: 업데이트 시스템 개선 및 핫픽스 적용",
-  "pub_date": "2026-07-21T11:36:17.082Z",
+  "version": "v1.7.7",
+  "notes": "v1.7.7: 최신 패치 호환성(BaseType 필터링) 핫픽스 수정",
+  "pub_date": "2026-07-30T15:02:01.494Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL210RTR0L0hzTHdrcnk2aFF3WENBWFF0MVdVYlFKWUVGWTVUeVN5UDVHVGZ0Qmo3SXUrWmdha2x1SzB2Sjh2MDhENnFKdlFDT0M1RmF2Zko5KzZmM3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMzNzc2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy42X3g2NC1zZXR1cC5leGUKbkFlUHhZWUdnYWJxcG0rQjA4b3lJT0Fad1BGeE1ucFVPcGlDWDNyTXIzajhiWm5WNFRpNFd0eHJ3WU1Pb3Zxc2FJRG16T2tMTmhxQUw4b2pTR0R2Q2c9PQo=",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.6/POE2_AutoFilter_1.7.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2d2WnA4OGIwczZhMjlrbGFZSFFGM09BdWw3TzRRekJCRW1TYnc1eUZBMGJxbkJXL2JSNkVCRkNBUmRsbzBsRjQvaHM4RGVRYnhUVnBKL3NaVmFTNWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDIzNzA5CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy43X3g2NC1zZXR1cC5leGUKaHEvUVR1MGd3dTltbk56OW96cExvOGhMc08wb2d0ZUZEWFJYN0ltUWYzT2FIQitYVGlXUUxydVpwc1JXVmlkcldnVmZ6akhrZVJzRlBrRUR0NXFnQkE9PQo=",
+      "url": "https://github.com/minseokk77/poe2-autofilter/releases/download/v1.7.7/POE2_AutoFilter_1.7.7_x64-setup.exe"
     }
   }
 }
