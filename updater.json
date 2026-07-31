@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.11",
-  "notes": "v1.7.11: 미리듣기 중첩 현상 및 긴 노래 자동 자르기 적용 핫픽스",
-  "pub_date": "2026-07-31T05:18:51.036Z",
+  "version": "v1.7.12",
+  "notes": "v1.7.12: 미리듣기 연속 클릭 시 사운드 중첩 및 자동 끊김 오작동 핫픽스",
+  "pub_date": "2026-07-31T05:31:34.192Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JVUW5HZXhLSUhNOWYzQ1ZiczQxY1NzWTFuYUY0SU9iVmE5YmIxQXVrdUVjN3dCbmJKeDJ6MW9xMS9zV2plSXE4ZEtMc2pHRjNNYWxrZ29TdDN6dlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDc1MTAwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xMV94NjQtc2V0dXAuZXhlCnIxa2hBSWpTWHRGbEJMREh3YmNjVk1FRWVKN3VCL3ZDc0Y1ZTRqcTExdmt6SzNHaC8yclU1T1pYSGw2VzUzQnNCbkt6YkJTWXNMcm1RWGtodjVvL0RRPT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.11/POE2_AutoFilter_1.7.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2h4aHd6Y2pBMi9IZ1IzNjRlLzE1U0xXYlhZMkR5dS8zVlRwUU0yczVnWjgrOWswK2xaZEtQZ1R0N1BxRXh6NkZDbFBkNlFnTGFueDZnOG82YUtKeVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDc1ODY0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xMl94NjQtc2V0dXAuZXhlCkZaQXNJN1VoOVF5eU1qWjdyallNYTU0VnVJNGwyY2RDRnhMNzZVa0xST3J6clNRRDZCTVJhWWRlU2VpKzIrY2RwRkdvajU1L0MwTGorMUhyT2daUkR3PT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.12/POE2_AutoFilter_1.7.12_x64-setup.exe"
     }
   }
 }
