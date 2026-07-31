@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.10",
-  "notes": "v1.7.10: 커스텀 사운드 파일 중복 복사 오류 (os error 32) 핫픽스",
-  "pub_date": "2026-07-31T05:14:53.733Z",
+  "version": "v1.7.11",
+  "notes": "v1.7.11: 미리듣기 중첩 현상 및 긴 노래 자동 자르기 적용 핫픽스",
+  "pub_date": "2026-07-31T05:18:51.036Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3M1cUFpZEFLeHh1bTNkdFFVaGQ4SWtBVlVmclBseVl1eWFFa0g1VnVXUjZ2YWQrdVlVYjlxcGhzVGhNMkR0TWZWRUxlVXdYeXBhL0V4c3BkM3BrdUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDc0ODQzCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xMF94NjQtc2V0dXAuZXhlCnpQcTRkMWRkK1dTYzNoOVl1Z0RobG83UCtab0Q3dDdDOUpncm1ZTFJHOFByMTVnNUdYZ2RpQTRPWjdsZ2JvU3VxNUwwOW14WDhjQmZhTlBSbldnT0NnPT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.10/POE2_AutoFilter_1.7.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JVUW5HZXhLSUhNOWYzQ1ZiczQxY1NzWTFuYUY0SU9iVmE5YmIxQXVrdUVjN3dCbmJKeDJ6MW9xMS9zV2plSXE4ZEtMc2pHRjNNYWxrZ29TdDN6dlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDc1MTAwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xMV94NjQtc2V0dXAuZXhlCnIxa2hBSWpTWHRGbEJMREh3YmNjVk1FRWVKN3VCL3ZDc0Y1ZTRqcTExdmt6SzNHaC8yclU1T1pYSGw2VzUzQnNCbkt6YkJTWXNMcm1RWGtodjVvL0RRPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.11/POE2_AutoFilter_1.7.11_x64-setup.exe"
     }
   }
 }
