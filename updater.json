@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.12",
-  "notes": "v1.7.12: 미리듣기 연속 클릭 시 사운드 중첩 및 자동 끊김 오작동 핫픽스",
-  "pub_date": "2026-07-31T05:31:34.192Z",
+  "version": "v1.7.13",
+  "notes": "v1.7.13: 한국 법령 기반 개인정보처리방침 및 서비스 이용약관 공식 연동, 최초 로그인 동의 모달(Consent Modal) 및 전용 약관 뷰어(Legal Modal) 추가",
+  "pub_date": "2026-08-16T10:11:41.546Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2h4aHd6Y2pBMi9IZ1IzNjRlLzE1U0xXYlhZMkR5dS8zVlRwUU0yczVnWjgrOWswK2xaZEtQZ1R0N1BxRXh6NkZDbFBkNlFnTGFueDZnOG82YUtKeVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDc1ODY0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xMl94NjQtc2V0dXAuZXhlCkZaQXNJN1VoOVF5eU1qWjdyallNYTU0VnVJNGwyY2RDRnhMNzZVa0xST3J6clNRRDZCTVJhWWRlU2VpKzIrY2RwRkdvajU1L0MwTGorMUhyT2daUkR3PT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.12/POE2_AutoFilter_1.7.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL254bUI1TUJhZTUvM25tSVhhQUprNkkySkN6SFFid1NaaW9DMFlYbW52TGtUdVJpaEFBYlNNRkFLSFZqZGk1alJ3WEFLR2ZYb1ZMeEhIY1UrZ2lkbXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODc1MDk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xM194NjQtc2V0dXAuZXhlCmNjVVNNa3Q0Ym1DYnl5ekQrd1lleFdPZTdSNHJ3TGlBakRVOUlGejhUNHF4REdPMXFJcWhVODR2bFpPN0tYaGxrc1lrMXp5VkE1U09aSndyVlE2WkFRPT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.7.13/POE2_AutoFilter_1.7.13_x64-setup.exe"
     }
   }
 }
