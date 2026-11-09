@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.13",
-  "notes": "v1.7.13: 한국 법령 기반 개인정보처리방침 및 서비스 이용약관 공식 연동, 최초 로그인 동의 모달(Consent Modal) 및 전용 약관 뷰어(Legal Modal) 추가",
-  "pub_date": "2026-08-16T10:23:27.898Z",
+  "version": "v1.7.14",
+  "notes": "v1.7.14: Bun 전면 전환 및 런타임 최적화, POE2 최신 API Cloudflare WAF 대응, 한국 카카오 및 글로벌 멀티 엔드포인트 Fallback 지원, POE2 전 직업군 완벽 매핑",
+  "pub_date": "2026-11-09T22:48:11.067Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2k1UGZJZm8vVHpXT0gwSWlEdDVLSGhZb2xFTExldjk2M1NSN21YUjRSTEQ1Nk9EMzZ6ejVHbnUxYXZRem95VzBoMHZGSGVoanZjNUN5RDlaa29odmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODc1ODAyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xM194NjQtc2V0dXAuZXhlCkdqSkVlSlN6cHdmdjVmbGNmNHNEblZzQjM1VU5WMWdvRU92QlUzd3YyS2IrWGlaTU95MmtGbFN5YXBZU3pFVWlUVVJZT0ZmREhGaVgrMTBOd01DVURRPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.7.13/POE2_AutoFilter_1.7.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3BvaTNISmt4cUFJckpuWXdpWnlPSVdmTlpLQjJ5T01ROG1iMUlWRkdiczg5ZnhrMDdKYnJqTmFqN1FSSW0wYmttMHduY0pjTzhkdGVJOUxpd0M1L0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY0NDg0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNF94NjQtc2V0dXAuZXhlCkQ2QjYxSFpNSWJQdkVPNVBWVFNEb0l3eU5ibzRYMW9MSlVia2NqM09YVUdFSnAxNFFQTTFIeFdvRGhsK0paVFNCMVFaNGlObmM3M3d6NHBQc3NSMkJBPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.14/POE2_AutoFilter_1.7.14_x64-setup.exe"
     }
   }
 }
