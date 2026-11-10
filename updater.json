@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.14",
-  "notes": "v1.7.14: Bun 전면 전환 및 런타임 최적화, POE2 최신 API Cloudflare WAF 대응, 한국 카카오 및 글로벌 멀티 엔드포인트 Fallback 지원, POE2 전 직업군 완벽 매핑",
-  "pub_date": "2026-11-09T22:48:11.067Z",
+  "version": "v1.7.15",
+  "notes": "v1.7.15: 다중 캐릭터 상시 선택 버튼 및 빠른 선택 칩(Quick Switcher Chips) 탑재, 동기화 캐릭터 목록 로컬 스토리지 영구 보존, 직업명 정규식 파싱 최적화",
+  "pub_date": "2026-11-10T01:48:01.001Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3BvaTNISmt4cUFJckpuWXdpWnlPSVdmTlpLQjJ5T01ROG1iMUlWRkdiczg5ZnhrMDdKYnJqTmFqN1FSSW0wYmttMHduY0pjTzhkdGVJOUxpd0M1L0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY0NDg0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNF94NjQtc2V0dXAuZXhlCkQ2QjYxSFpNSWJQdkVPNVBWVFNEb0l3eU5ibzRYMW9MSlVia2NqM09YVUdFSnAxNFFQTTFIeFdvRGhsK0paVFNCMVFaNGlObmM3M3d6NHBQc3NSMkJBPT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.14/POE2_AutoFilter_1.7.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2ltbHJWdEdQVW91ZUQ4UWlRYmtVU0JaZUVHbm5QbmpSZ2N5YXRLTGVmdWdTU3JjU0oxRW9UeXJTdUx6bldOeTBTc3YyQWRMbEhDMUpsak1sTjNWK1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc1MjcyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNV94NjQtc2V0dXAuZXhlCldJaFk4SWFJQ2duK0xRRzBmYmI5REV3amF5ZkpCZ0JQN1lKZnExc1d4QlU3cnZlWnF3cHFPWHd3QWVPbjZndUpBWnY0SHEzVmFtdHhUQXBnTG5QRUNnPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.15/POE2_AutoFilter_1.7.15_x64-setup.exe"
     }
   }
 }
