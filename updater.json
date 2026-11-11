@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.16",
-  "notes": "v1.7.16: 인게임 자동 리로드 (/reloaditemfilter 자동 전송), Client.txt 로그 감시, Causal-WAL 필터 타임머신, 인터랙티브 인게임 드롭 시뮬레이터 & 사운드 믹서, 스마트 기어 업그레이드 파인더 탑재",
-  "pub_date": "2026-11-11T04:23:00.000Z",
+  "version": "v1.7.17",
+  "notes": "v1.7.17: GGG 공식 개발자 OAuth 2.0 API 연동 (비공개 프로필 100% 지원 및 공식 온라인 필터 슬롯 클라우드 동기화), POE2 순수 메커니즘 100% 반영 파밍 가이드 개편, 캐릭터 기본 정보 입력 최상단 배치 및 세련된 UI 레이아웃 정상화",
+  "pub_date": "2026-11-11T08:37:30.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25kdzJDTXk5Y3FQYmtZcmx0aTRKbVlLS3JyTWJReUV1djE1SlBiM2ZIWHo1b0NMVlNSMTdiYzcwdmFFYzVuYy90dFlCWXhpZ3dDNnMyMnBlZVdiNVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzcwOTk2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNl94NjQtc2V0dXAuZXhlCnhCVm9zU25YMC9LL256Q29QamZVc042dDkrMWV2YWRTK1l4T2QzTTFGWkR1RmVpa0VNZ1NhaTNHRDlSTGloaDFIWGRXdlpkSEdEbzl6MUxBZlMwOERnPT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.16/POE2_AutoFilter_1.7.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2l6WjdLcTJDcGxrYitqSUx0MzNxb1psL2loYWFRc283M0JEYURGWUhORVpoMUtnS2tqeUdBdlEvTkw5NlFOVHlmWklUZ2twbVdLcWZTSURZSlBtTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzg2MjUwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xN194NjQtc2V0dXAuZXhlCnovQkQyazk2QktSOEhtM29zeUxESlJUZkJiYWwwRVhyOUZwUkRBLzB4dEc4algrYUZ1ZERpY1NqM1RaampjcmM2R0xmeW5wYzN5dVV1bzBqZVdIWkJnPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.17/POE2_AutoFilter_1.7.17_x64-setup.exe"
     }
   }
 }
