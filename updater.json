@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.15",
-  "notes": "v1.7.15: 다중 캐릭터 상시 선택 버튼 및 빠른 선택 칩(Quick Switcher Chips) 탑재, 동기화 캐릭터 목록 로컬 스토리지 영구 보존, 직업명 정규식 파싱 최적화",
-  "pub_date": "2026-11-10T01:48:01.001Z",
+  "version": "v1.7.16",
+  "notes": "v1.7.16: 인게임 자동 리로드 (/reloaditemfilter 자동 전송), Client.txt 로그 감시, Causal-WAL 필터 타임머신, 인터랙티브 인게임 드롭 시뮬레이터 & 사운드 믹서, 스마트 기어 업그레이드 파인더 탑재",
+  "pub_date": "2026-11-11T04:23:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2ltbHJWdEdQVW91ZUQ4UWlRYmtVU0JaZUVHbm5QbmpSZ2N5YXRLTGVmdWdTU3JjU0oxRW9UeXJTdUx6bldOeTBTc3YyQWRMbEhDMUpsak1sTjNWK1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc1MjcyCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNV94NjQtc2V0dXAuZXhlCldJaFk4SWFJQ2duK0xRRzBmYmI5REV3amF5ZkpCZ0JQN1lKZnExc1d4QlU3cnZlWnF3cHFPWHd3QWVPbjZndUpBWnY0SHEzVmFtdHhUQXBnTG5QRUNnPT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.15/POE2_AutoFilter_1.7.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25kdzJDTXk5Y3FQYmtZcmx0aTRKbVlLS3JyTWJReUV1djE1SlBiM2ZIWHo1b0NMVlNSMTdiYzcwdmFFYzVuYy90dFlCWXhpZ3dDNnMyMnBlZVdiNVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzcwOTk2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xNl94NjQtc2V0dXAuZXhlCnhCVm9zU25YMC9LL256Q29QamZVc042dDkrMWV2YWRTK1l4T2QzTTFGWkR1RmVpa0VNZ1NhaTNHRDlSTGloaDFIWGRXdlpkSEdEbzl6MUxBZlMwOERnPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.16/POE2_AutoFilter_1.7.16_x64-setup.exe"
     }
   }
 }
