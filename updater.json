@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.18",
-  "notes": "v1.7.18: POE2 인기 메타 추천 빌드 6선(워리어/레인저/소서리스/수도사/용병/헌트리스) 원클릭 게임 자동 설치 시스템 탑재, 외부 공유 코드 및 클립보드 스마트 인포트(탐색기 조작 없이 POE2 게임 폴더 자동 배치 및 /reloaditemfilter 즉시 적용), 커뮤니티 갤러리 원클릭 게임 설치 지원, 하단 상시 빠른 액션 바 탑재",
-  "pub_date": "2026-11-11T14:05:00.000Z",
+  "version": "v1.7.19",
+  "notes": "v1.7.19: 카카오게임즈 신규 공식 도메인(poe2.kakaogames.com) 대응 및 캐릭터/장비 스크래퍼 통합 업데이트, 디스코드 역할 3중 다중 검증 시스템 탑재 및 인증 완료 프리미엄 골드 글래스모피즘 UI 전면 개편",
+  "pub_date": "2026-11-12T03:35:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3Izem9UanBOTUV6eTNwTytIcE9NOVZwVFFPN21BZmc5VHpZNTFyc01Qb2d3alZvWXJQWXFNM1JVQ1F3K24yZU1Nc1RMZ3YvL1pLdkxIcVQyeW9ic1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA1ODYzCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xOF94NjQtc2V0dXAuZXhlCjVCbUtKZlMrekNOT2pBbm02V0hTSWtEMFdTeVhYL1FLUHNJWmZHMlRYcGtremtLbExDU01WbnBQaEl1M08wMkh5OFY2SlRFUUVMaGFqNVFSMXlrRUN3PT0K",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.18/POE2_AutoFilter_1.7.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL24wZ3o0MXNKcmRmbVJ5Z0c4N2wxNGMraHZKcXpjS3hSalA4YWxMUnBMM0wxVXAzSHdoQ2dkd1V4bDByaXV4WHRBYnZ4MzRXTW9DeklkbDJvT3krU1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU0NTMwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNy4xOV94NjQtc2V0dXAuZXhlCm1HYksyOUE3MXMxZWwxWm1HT1hNMG5NRnVIcG1UMW1iNklVT2VVeW5FSER4Y1RNSWlUWWRZanlkVUI3em9NN0xSdnZ4NHJSYVV3cTkwbTJmMGNvM0RRPT0K",
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.19/POE2_AutoFilter_1.7.19_x64-setup.exe"
     }
   }
 }
