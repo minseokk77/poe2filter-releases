@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.19",
-  "notes": "v1.7.19: 카카오게임즈 신규 공식 도메인(poe2.kakaogames.com) 대응 및 캐릭터/장비 스크래퍼 통합 업데이트, 디스코드 역할 3중 다중 검증 시스템 탑재 및 인증 완료 프리미엄 골드 글래스모피즘 UI 전면 개편",
-  "pub_date": "2026-11-12T03:35:00.000Z",
+  "version": "v1.7.20",
+  "notes": "v1.7.20: 디스코드 웹 승인 즉시 앱 화면 맨 앞 자동 포커스 복귀, 업데이트 무음 설치 완료 후 최신 앱 자동 재실행(Auto-Restart) 파이프라인 탑재, 순수 JSON 기반 단독 직통 업데이트 체계 확립",
+  "pub_date": "2026-11-12T12:55:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.19/POE2_AutoFilter_1.7.19_x64-setup.exe"
+      "url": "https://github.com/minseokk77/poe2filter-releases/releases/download/v1.7.20/POE2_AutoFilter_1.7.20_x64-setup.exe"
     }
   }
 }
